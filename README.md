@@ -1,1 +1,0 @@
-# Pensamento-Computacional-e-Automa-o-com-Python
